@@ -1,0 +1,32 @@
+_repo: Messenger-No.-48_23627
+_version: 0.1.0
+alternative_title: Messenger number forty-eight
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2007-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Juvenile fiction'
+- !lcsh 'Homeless boys -- Juvenile fiction'
+- !lcsh 'Messengers -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcc 'PZ'
+title: Messenger No. 48
+url: http://www.gutenberg.org/ebooks/23627
